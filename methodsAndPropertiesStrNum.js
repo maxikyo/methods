@@ -16,8 +16,8 @@ console.log(fruit.indexOf("fruit")); //Method должен принимать к
                                     // находится определнное слово, начая с 0 и существует ли он
 
 const logg = "Hello World";
-//Методы строк
-// console.log(logg.slice(4, 5));
+//Методы строк (изменение регистра)
+// console.log(logg.slice(4, 5)); можно с минусовым значением
 //
 // console.log(logg.substring(6, 11)); // две команды, которые могут обрещать строку по порядку с 0
 //
